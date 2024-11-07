@@ -1,7 +1,7 @@
 ## Projeto DevNotes
 
 ### Desenvolvedor instrutor Matheus Batistti
-#### Horas de codar
+#### Hora de codar
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/horadecodar/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbattisti)
@@ -37,6 +37,7 @@ Tipos de dados e operadores<br>
 
 ### DevNotes
 
-![Print DevNotes](img/devnote1.png)
+![devnote1](https://github.com/user-attachments/assets/c6ba7b37-0075-4282-a194-25cddca9f804)
 
-![alt text](img/devnote2.png)
+![devnote2](https://github.com/user-attachments/assets/cc4eaf2d-2682-446c-8a78-b563327e07d0)
+
