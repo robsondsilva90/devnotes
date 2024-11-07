@@ -1,5 +1,9 @@
 ## Projeto DevNotes
 
+### Acesse o Projeto
+
+[![Projeto](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://robsondsilva90.github.io/devnotes/)
+
 ### Desenvolvedor instrutor Matheus Batistti
 #### Hora de codar
 
@@ -41,6 +45,4 @@ Tipos de dados e operadores<br>
 
 ![devnote2](https://github.com/user-attachments/assets/cc4eaf2d-2682-446c-8a78-b563327e07d0)
 
-### Acesse o Projeto
 
-[![Projeto](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://robsondsilva90.github.io/devnotes/)
