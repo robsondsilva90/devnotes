@@ -37,7 +37,10 @@ Tipos de dados e operadores<br>
 
 ### DevNotes
 
-![devnote1](https://github.com/user-attachments/assets/c6ba7b37-0075-4282-a194-25cddca9f804)
+![devnote1](https://github.com/user-attachments/assets/c6ba7b37-0075-4282-a194-25cddca9f804)(#)
 
-![devnote2](https://github.com/user-attachments/assets/cc4eaf2d-2682-446c-8a78-b563327e07d0)
+![devnote2](https://github.com/user-attachments/assets/cc4eaf2d-2682-446c-8a78-b563327e07d0)(#)
 
+### Acesse o Projeto
+
+[![Projeto](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://robsondsilva90.github.io/devnotes/)
